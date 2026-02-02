@@ -1,0 +1,3120 @@
+{
+  "nodes": [
+    {
+      "id": "GRIALL",
+      "group": 0,
+      "children": [
+        {
+          "id": "GRI 200: Economic Standards Series",
+          "group": 1,
+          "children": [
+            {
+              "id": "GRI 201: Economic Performance",
+              "group": 1,
+              "children": [
+                {
+                  "id": "201-1: Direct economic value generated and distributed by the organization",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Revenue",
+                      "group": 7
+                    },
+                    {
+                      "id": "Operating costs",
+                      "group": 7
+                    },
+                    {
+                      "id": "Employee wages and benefits",
+                      "group": 7
+                    },
+                    {
+                      "id": "Payments to providers of capital",
+                      "group": 7
+                    },
+                    {
+                      "id": "Payments to government",
+                      "group": 7
+                    },
+                    {
+                      "id": "Community investments",
+                      "group": 7
+                    },
+                    {
+                      "id": "Retained economic value",
+                      "group": 7
+                    }
+                  ]
+                },
+                {
+                  "id": "201-2: Financial implications and other risks and opportunities due to climate change",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Tax risk identification and management",
+                      "group": 21
+                    },
+                    {
+                      "id": "Identified significant risks",
+                      "group": 16
+                    },
+                    {
+                      "id": "Tax governance body",
+                      "group": 20
+                    },
+                    {
+                      "id": "Revenue",
+                      "group": 7
+                    },
+                    {
+                      "id": "Operating costs",
+                      "group": 7
+                    },
+                    {
+                      "id": "Retained economic value",
+                      "group": 7
+                    },
+                    {
+                      "id": "Payments to government",
+                      "group": 7
+                    },
+                    {
+                      "id": "Methods for assessing water-related impacts",
+                      "group": 7
+                    },
+                    {
+                      "id": "Climate change risks and opportunities",
+                      "group": 8
+                    },
+                    {
+                      "id": "Financial implications of risks and opportunities",
+                      "group": 8
+                    },
+                    {
+                      "id": "Costs of response measures",
+                      "group": 8
+                    },
+                    {
+                      "id": "Scenario analysis and future estimates",
+                      "group": 8
+                    }
+                  ]
+                },
+                {
+                  "id": "201-3: Defined benefit plan obligations and other retirement plans",
+                  "group": 4,
+                  "children": [
+                    {
+                      "id": "Scope of obligations",
+                      "group": 9
+                    },
+                    {
+                      "id": "Retirement plan assets and liabilities",
+                      "group": 9
+                    },
+                    {
+                      "id": "Funding sources",
+                      "group": 9
+                    },
+                    {
+                      "id": "Employee participation rate",
+                      "group": 9
+                    }
+                  ]
+                },
+                {
+                  "id": "201-4: Financial assistance received from government",
+                  "group": 5,
+                  "children": [
+                    {
+                      "id": "Tax relief",
+                      "group": 10
+                    },
+                    {
+                      "id": "Subsidies",
+                      "group": 10
+                    },
+                    {
+                      "id": "Investment grants",
+                      "group": 10
+                    },
+                    {
+                      "id": "Awards",
+                      "group": 10
+                    },
+                    {
+                      "id": "Royalty holidays",
+                      "group": 10
+                    },
+                    {
+                      "id": "Financial assistance from export credit agencies",
+                      "group": 10
+                    },
+                    {
+                      "id": "Government ownership percentage",
+                      "group": 10
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 202: Market Presence",
+              "group": 2,
+              "children": [
+                {
+                  "id": "202-1: Ratios of standard entry level wage by gender compared to local minimum wage",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Percentage of assessment results publicly disclosed",
+                      "group": 35
+                    },
+                    {
+                      "id": "How standards are determined",
+                      "group": 8
+                    },
+                    {
+                      "id": "Standard entry level wage for entry-level employees at each operation",
+                      "group": 11
+                    },
+                    {
+                      "id": "Local minimum wage at each operation",
+                      "group": 11
+                    },
+                    {
+                      "id": "Gender differences in wage ratios",
+                      "group": 11
+                    },
+                    {
+                      "id": "Definition of 'significant locations of operation'",
+                      "group": 10
+                    },
+                    {
+                      "id": "Description of wage comparison method",
+                      "group": 11
+                    }
+                  ]
+                },
+                {
+                  "id": "202-2: Proportion of senior management hired from the local community",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Diversity indicators for governance body members",
+                      "group": 24
+                    },
+                    {
+                      "id": "Total number and rate of new employee hires",
+                      "group": 7
+                    },
+                    {
+                      "id": "Percentage of impact assessments",
+                      "group": 35
+                    },
+                    {
+                      "id": "Percentage of community engagement",
+                      "group": 35
+                    },
+                    {
+                      "id": "Proportion of senior management from local community",
+                      "group": 12
+                    },
+                    {
+                      "id": "Geographic definition of 'local'",
+                      "group": 10
+                    },
+                    {
+                      "id": "Definition of 'senior management'",
+                      "group": 10
+                    },
+                    {
+                      "id": "Definition of 'significant locations of operation'",
+                      "group": 10
+                    },
+                    {
+                      "id": "Data for each significant location of operation",
+                      "group": 12
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 203: Indirect Economic Impacts",
+              "group": 3,
+              "children": [
+                {
+                  "id": "203-1: Infrastructure investments and services supported",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Percentage of impact assessments",
+                      "group": 35
+                    },
+                    {
+                      "id": "Methods for assessing water-related impacts",
+                      "group": 7
+                    },
+                    {
+                      "id": "Operating costs",
+                      "group": 7
+                    },
+                    {
+                      "id": "Community investments",
+                      "group": 7
+                    },
+                    {
+                      "id": "Product and service information and labeling requirements",
+                      "group": 42
+                    },
+                    {
+                      "id": "Infrastructure investment amounts",
+                      "group": 13
+                    },
+                    {
+                      "id": "Affected communities and economies",
+                      "group": 13
+                    },
+                    {
+                      "id": "Distinction between commercial/in-kind/pro bono nature",
+                      "group": 13
+                    },
+                    {
+                      "id": "Impact assessment methods and results",
+                      "group": 13
+                    }
+                  ]
+                },
+                {
+                  "id": "203-2: Significant indirect economic impacts",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Climate change risks and opportunities",
+                      "group": 8
+                    },
+                    {
+                      "id": "Costs of response measures",
+                      "group": 8
+                    },
+                    {
+                      "id": "Tax governance body",
+                      "group": 20
+                    },
+                    {
+                      "id": "Methods for assessing water-related impacts",
+                      "group": 7
+                    },
+                    {
+                      "id": "Financial implications of risks and opportunities",
+                      "group": 8
+                    },
+                    {
+                      "id": "Jobs supported in the supply chain",
+                      "group": 14
+                    },
+                    {
+                      "id": "Development of skills and knowledge",
+                      "group": 14
+                    },
+                    {
+                      "id": "Improved economic productivity in communities",
+                      "group": 14
+                    },
+                    {
+                      "id": "Changes in accessibility of products and services",
+                      "group": 14
+                    },
+                    {
+                      "id": "External recognition and impact measurement",
+                      "group": 14
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 204: Procurement Practices",
+              "group": 4,
+              "children": [
+                {
+                  "id": "204-1: Proportion of spending on local suppliers",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Number of suppliers with significant negative impacts",
+                      "group": 38
+                    },
+                    {
+                      "id": "Types of operations and suppliers at risk of forced labor",
+                      "group": 18
+                    },
+                    {
+                      "id": "Types of operations or suppliers in violation or at significant risk",
+                      "group": 28
+                    },
+                    {
+                      "id": "Proportion of senior management from local community",
+                      "group": 12
+                    },
+                    {
+                      "id": "Number of suppliers assessed for social impacts",
+                      "group": 38
+                    },
+                    {
+                      "id": "Suppliers at risk of forced labor",
+                      "group": 29
+                    },
+                    {
+                      "id": "Proportion of spending on local suppliers",
+                      "group": 15
+                    },
+                    {
+                      "id": "Geographic definition of 'local'",
+                      "group": 10
+                    },
+                    {
+                      "id": "Definition of 'significant locations of operation'",
+                      "group": 10
+                    },
+                    {
+                      "id": "Method of calculating procurement budget",
+                      "group": 15
+                    },
+                    {
+                      "id": "Definition of 'significant operational changes'",
+                      "group": 10
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 205: Anti-corruption",
+              "group": 5,
+              "children": [
+                {
+                  "id": "205-1: Operations assessed for risks related to corruption",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Total number of operations assessed",
+                      "group": 32
+                    },
+                    {
+                      "id": "Percentage of community engagement",
+                      "group": 35
+                    },
+                    {
+                      "id": "Percentage of assessment results publicly disclosed",
+                      "group": 35
+                    },
+                    {
+                      "id": "Tax governance body",
+                      "group": 20
+                    },
+                    {
+                      "id": "Methods for assessing water-related impacts",
+                      "group": 7
+                    },
+                    {
+                      "id": "Percentage of impact assessments",
+                      "group": 35
+                    },
+                    {
+                      "id": "Operations in or adjacent to protected areas",
+                      "group": 7
+                    },
+                    {
+                      "id": "Number and percentage of operations assessed for risks",
+                      "group": 16
+                    },
+                    {
+                      "id": "Identified significant risks",
+                      "group": 16
+                    },
+                    {
+                      "id": "Significant risks related to corruption",
+                      "group": 16
+                    },
+                    {
+                      "id": "Assessment methods and criteria",
+                      "group": 16
+                    }
+                  ]
+                },
+                {
+                  "id": "205-2: Communication and training about anti-corruption policies and procedures",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Programs implemented to enhance employee skills",
+                      "group": 13
+                    },
+                    {
+                      "id": "Communication and training for governance body members",
+                      "group": 17
+                    },
+                    {
+                      "id": "Communication and training for employees",
+                      "group": 17
+                    },
+                    {
+                      "id": "Communication to business partners",
+                      "group": 17
+                    },
+                    {
+                      "id": "Statistics by region and employee category",
+                      "group": 17
+                    }
+                  ]
+                },
+                {
+                  "id": "205-3: Confirmed incidents of corruption and actions taken",
+                  "group": 4,
+                  "children": [
+                    {
+                      "id": "Total number of confirmed incidents of corruption",
+                      "group": 18
+                    },
+                    {
+                      "id": "Number of employees dismissed or disciplined for corruption",
+                      "group": 18
+                    },
+                    {
+                      "id": "Number of business partner contracts terminated or not renewed",
+                      "group": 18
+                    },
+                    {
+                      "id": "Public legal cases against the organization or employees",
+                      "group": 18
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 206: Anti-competitive Behavior",
+              "group": 6,
+              "children": [
+                {
+                  "id": "206-1: Legal actions for anti-competitive behavior, anti-trust, and monopoly practices",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Total number of identified incidents of leaks, thefts, or losses of data",
+                      "group": 45
+                    },
+                    {
+                      "id": "Total number of confirmed incidents of corruption",
+                      "group": 18
+                    },
+                    {
+                      "id": "Public legal cases against the organization or employees",
+                      "group": 18
+                    },
+                    {
+                      "id": "Initiatives for reduction potential (processes, equipment, behavioral changes…)",
+                      "group": 13
+                    },
+                    {
+                      "id": "Number of pending legal actions",
+                      "group": 19
+                    },
+                    {
+                      "id": "Outcomes of completed cases",
+                      "group": 19
+                    },
+                    {
+                      "id": "Content of penalties and sanctions",
+                      "group": 19
+                    },
+                    {
+                      "id": "Improvement measures and compliance programs",
+                      "group": 19
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 207: Tax",
+              "group": 7,
+              "children": [
+                {
+                  "id": "207-1: Approach to tax",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Retained economic value",
+                      "group": 7
+                    },
+                    {
+                      "id": "Financial implications of risks and opportunities",
+                      "group": 8
+                    },
+                    {
+                      "id": "Payments to government",
+                      "group": 7
+                    },
+                    {
+                      "id": "Tax relief",
+                      "group": 10
+                    },
+                    {
+                      "id": "Organization's tax strategy",
+                      "group": 20
+                    },
+                    {
+                      "id": "Tax governance body",
+                      "group": 20
+                    },
+                    {
+                      "id": "Link to business strategy",
+                      "group": 20
+                    },
+                    {
+                      "id": "Link to sustainability strategy",
+                      "group": 20
+                    }
+                  ]
+                },
+                {
+                  "id": "207-2: Tax governance, control, and risk management",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Organization's tax strategy",
+                      "group": 20
+                    },
+                    {
+                      "id": "Tax relief",
+                      "group": 10
+                    },
+                    {
+                      "id": "Tax governance body",
+                      "group": 20
+                    },
+                    {
+                      "id": "Approach to tax",
+                      "group": 21
+                    },
+                    {
+                      "id": "Tax compliance review processes",
+                      "group": 21
+                    },
+                    {
+                      "id": "Tax risk identification and management",
+                      "group": 21
+                    },
+                    {
+                      "id": "Tax disclosure mechanisms",
+                      "group": 21
+                    }
+                  ]
+                },
+                {
+                  "id": "207-3: Stakeholder engagement and management of concerns related to tax",
+                  "group": 4,
+                  "children": [
+                    {
+                      "id": "Organization's tax strategy",
+                      "group": 20
+                    },
+                    {
+                      "id": "Tax governance body",
+                      "group": 20
+                    },
+                    {
+                      "id": "Stakeholder engagement on tax issues",
+                      "group": 22
+                    },
+                    {
+                      "id": "Approach to engagement with tax authorities",
+                      "group": 22
+                    },
+                    {
+                      "id": "Positions on public policy advocacy",
+                      "group": 22
+                    },
+                    {
+                      "id": "Processes for collecting external tax feedback",
+                      "group": 22
+                    }
+                  ]
+                },
+                {
+                  "id": "207-4: Country-by-country reporting",
+                  "group": 5,
+                  "children": [
+                    {
+                      "id": "Total monetary value of political contributions",
+                      "group": 39
+                    },
+                    {
+                      "id": "Tax relief",
+                      "group": 10
+                    },
+                    {
+                      "id": "Payments to government",
+                      "group": 7
+                    },
+                    {
+                      "id": "Revenue",
+                      "group": 7
+                    },
+                    {
+                      "id": "Tax governance body",
+                      "group": 20
+                    },
+                    {
+                      "id": "Contributions by country/region",
+                      "group": 39
+                    },
+                    {
+                      "id": "Tax jurisdictions of operations",
+                      "group": 23
+                    },
+                    {
+                      "id": "Revenue by tax jurisdiction",
+                      "group": 23
+                    },
+                    {
+                      "id": "Profit before tax by tax jurisdiction",
+                      "group": 23
+                    },
+                    {
+                      "id": "Income tax paid",
+                      "group": 23
+                    },
+                    {
+                      "id": "Income tax accrued",
+                      "group": 23
+                    },
+                    {
+                      "id": "Number of employees",
+                      "group": 23
+                    },
+                    {
+                      "id": "Tangible assets",
+                      "group": 23
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GRI 300: Environmental Standards Series",
+          "group": 2,
+          "children": [
+            {
+              "id": "GRI 301: Materials",
+              "group": 1,
+              "children": [
+                {
+                  "id": "301-1: Materials used by weight or volume",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Total weight/volume of non-renewable materials",
+                      "group": 7
+                    },
+                    {
+                      "id": "Total weight/volume of renewable materials",
+                      "group": 7
+                    },
+                    {
+                      "id": "Standard conversion factors used",
+                      "group": 7
+                    }
+                  ]
+                },
+                {
+                  "id": "301-2: Recycled input materials used",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Requirements for product content",
+                      "group": 42
+                    },
+                    {
+                      "id": "Actions taken to prevent waste generation",
+                      "group": 8
+                    },
+                    {
+                      "id": "Requirements for product composition and safe use information",
+                      "group": 42
+                    },
+                    {
+                      "id": "Use and end-of-life treatment of sold products",
+                      "group": 11
+                    },
+                    {
+                      "id": "Percentage of recycled input materials to total input materials",
+                      "group": 8
+                    },
+                    {
+                      "id": "Use of recycled materials and calculation methods",
+                      "group": 8
+                    }
+                  ]
+                },
+                {
+                  "id": "301-3: Reclaimed products and their packaging materials",
+                  "group": 4,
+                  "children": [
+                    {
+                      "id": "Percentage of recycled input materials to total input materials",
+                      "group": 8
+                    },
+                    {
+                      "id": "Requirements for product sourcing information",
+                      "group": 42
+                    },
+                    {
+                      "id": "Use and end-of-life treatment of sold products",
+                      "group": 11
+                    },
+                    {
+                      "id": "Categories of reclaimed products and packaging",
+                      "group": 9
+                    },
+                    {
+                      "id": "Percentage reclaimed by category",
+                      "group": 9
+                    },
+                    {
+                      "id": "Sources of reclamation data",
+                      "group": 9
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 302: Energy",
+              "group": 1,
+              "children": [
+                {
+                  "id": "302-1: Energy consumption within the organization",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Sources of emission factors",
+                      "group": 12
+                    },
+                    {
+                      "id": "Operating costs",
+                      "group": 7
+                    },
+                    {
+                      "id": "Non-renewable fuel consumption and total",
+                      "group": 7
+                    },
+                    {
+                      "id": "Renewable fuel consumption and total",
+                      "group": 7
+                    },
+                    {
+                      "id": "Calculation formula for total energy consumption",
+                      "group": 7,
+                      "children": [
+                        {
+                          "id": "Total energy consumption within the organization",
+                          "group": 8
+                        },
+                        {
+                          "id": "Non-renewable fuel consumption",
+                          "group": 8
+                        },
+                        {
+                          "id": "Renewable fuel consumption",
+                          "group": 8
+                        },
+                        {
+                          "id": "Energy purchased and consumed",
+                          "group": 8
+                        },
+                        {
+                          "id": "Energy produced but not consumed",
+                          "group": 8
+                        },
+                        {
+                          "id": "Energy sold",
+                          "group": 8
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "302-2: Energy consumption outside of the organization",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Upstream and downstream energy consumption (in joules or multiples)",
+                      "group": 9
+                    },
+                    {
+                      "id": "Calculate external only, excluding internal energy consumption",
+                      "group": 9
+                    },
+                    {
+                      "id": "Upstream categories",
+                      "group": 10,
+                      "children": [
+                        {
+                          "id": "Purchased goods and services",
+                          "group": 11
+                        },
+                        {
+                          "id": "Capital goods",
+                          "group": 11
+                        },
+                        {
+                          "id": "Fuel- and energy-related activities (not included in 302-1)",
+                          "group": 11
+                        },
+                        {
+                          "id": "Waste generated in operations",
+                          "group": 11
+                        },
+                        {
+                          "id": "Business travel",
+                          "group": 11
+                        },
+                        {
+                          "id": "Employee commuting",
+                          "group": 11
+                        },
+                        {
+                          "id": "Transportation and distribution",
+                          "group": 11
+                        },
+                        {
+                          "id": "Leased assets",
+                          "group": 11
+                        },
+                        {
+                          "id": "Other upstream",
+                          "group": 11
+                        }
+                      ]
+                    },
+                    {
+                      "id": "Downstream categories",
+                      "group": 10,
+                      "children": [
+                        {
+                          "id": "Processing of sold products",
+                          "group": 11
+                        },
+                        {
+                          "id": "Use of sold products",
+                          "group": 11
+                        },
+                        {
+                          "id": "End-of-life treatment of sold products",
+                          "group": 11
+                        },
+                        {
+                          "id": "Transportation and distribution",
+                          "group": 11
+                        },
+                        {
+                          "id": "Leased assets",
+                          "group": 11
+                        },
+                        {
+                          "id": "Franchising",
+                          "group": 11
+                        },
+                        {
+                          "id": "Investments",
+                          "group": 11
+                        },
+                        {
+                          "id": "Other downstream",
+                          "group": 11
+                        }
+                      ]
+                    },
+                    {
+                      "id": "Non-renewable energy consumption",
+                      "group": 7
+                    },
+                    {
+                      "id": "Renewable energy consumption",
+                      "group": 7
+                    }
+                  ]
+                },
+                {
+                  "id": "302-3: Energy intensity",
+                  "group": 4,
+                  "children": [
+                    {
+                      "id": "Energy intensity calculation formula",
+                      "group": 12
+                    },
+                    {
+                      "id": "Absolute energy consumption (numerator)",
+                      "group": 12
+                    },
+                    {
+                      "id": "Organization-specific metric (denominator)",
+                      "group": 12
+                    },
+                    {
+                      "id": "Types of energy included (fuel, electricity, heating, cooling, steam)",
+                      "group": 12
+                    },
+                    {
+                      "id": "Internal / external / combined energy consumption",
+                      "group": 12
+                    },
+                    {
+                      "id": "Intensity breakdown by product / service / sales etc.",
+                      "group": 12
+                    }
+                  ]
+                },
+                {
+                  "id": "302-4: Reduction of energy consumption",
+                  "group": 5,
+                  "children": [
+                    {
+                      "id": "GHG emissions reduced",
+                      "group": 11
+                    },
+                    {
+                      "id": "Climate change risks and opportunities",
+                      "group": 8
+                    },
+                    {
+                      "id": "Financial implications of risks and opportunities",
+                      "group": 8
+                    },
+                    {
+                      "id": "Energy conservation and efficiency improvement initiatives (reductions/types)",
+                      "group": 13
+                    },
+                    {
+                      "id": "Types of energy reduced (fuel, electricity, heating, cooling, steam)",
+                      "group": 13
+                    },
+                    {
+                      "id": "Base year or baseline and rationale for choosing it (302-4)",
+                      "group": 13
+                    },
+                    {
+                      "id": "Method of calculating reductions (estimation, modeling, direct measurement)",
+                      "group": 13
+                    },
+                    {
+                      "id": "Exclusions of reductions due to decreased capacity or outsourcing",
+                      "group": 13
+                    },
+                    {
+                      "id": "Initiatives for reduction potential (processes, equipment, behavioral changes, operational changes)",
+                      "group": 13
+                    },
+                    {
+                      "id": "Standards, methodologies, assumptions, and/or calculation tools used (302-4)",
+                      "group": 13
+                    }
+                  ]
+                },
+                {
+                  "id": "302-5: Reductions in energy requirements of products and services",
+                  "group": 6,
+                  "children": [
+                    {
+                      "id": "Percentage of products and services compliant with requirements",
+                      "group": 42
+                    },
+                    {
+                      "id": "Ongoing monitoring mechanisms",
+                      "group": 36
+                    },
+                    {
+                      "id": "Reductions in energy requirements of sold products/services during use phase",
+                      "group": 14
+                    },
+                    {
+                      "id": "Use-oriented data (e.g., energy reduction per 100 km)",
+                      "group": 14
+                    },
+                    {
+                      "id": "Base year or baseline (302-5) and rationale for choosing it",
+                      "group": 14
+                    },
+                    {
+                      "id": "Consumption patterns (average reduction % per hour or working day)",
+                      "group": 14
+                    },
+                    {
+                      "id": "Standards, methodologies, assumptions, and/or calculation tools used (302-5)",
+                      "group": 14
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 303: Water and Effluents",
+              "group": 1,
+              "children": [
+                {
+                  "id": "303-1: Interactions with water as a shared resource",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Climate change risks and opportunities",
+                      "group": 8
+                    },
+                    {
+                      "id": "Costs of response measures",
+                      "group": 8
+                    },
+                    {
+                      "id": "How the organization interacts with water",
+                      "group": 7
+                    },
+                    {
+                      "id": "Methods for assessing water-related impacts",
+                      "group": 7
+                    },
+                    {
+                      "id": "Approaches to addressing water-related impacts",
+                      "group": 7
+                    },
+                    {
+                      "id": "Collaboration with stakeholders on water",
+                      "group": 7
+                    },
+                    {
+                      "id": "Water management goals and strategies",
+                      "group": 7
+                    }
+                  ]
+                },
+                {
+                  "id": "303-2: Management of water discharge-related impacts",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Costs of response measures",
+                      "group": 8
+                    },
+                    {
+                      "id": "Setting minimum standards for effluent quality",
+                      "group": 8
+                    },
+                    {
+                      "id": "Water quality standards or guidelines",
+                      "group": 8
+                    },
+                    {
+                      "id": "How standards are determined",
+                      "group": 8
+                    },
+                    {
+                      "id": "Sector-specific standards",
+                      "group": 8
+                    },
+                    {
+                      "id": "Considerations for receiving water body characteristics",
+                      "group": 8
+                    }
+                  ]
+                },
+                {
+                  "id": "303-3: Water withdrawal",
+                  "group": 4,
+                  "children": [
+                    {
+                      "id": "Costs of response measures",
+                      "group": 8
+                    },
+                    {
+                      "id": "Total water withdrawal by source",
+                      "group": 9
+                    },
+                    {
+                      "id": "Water withdrawal in water-stressed areas",
+                      "group": 9
+                    },
+                    {
+                      "id": "Calculations, standards, and assumptions for water withdrawal",
+                      "group": 9
+                    },
+                    {
+                      "id": "Indicators and thresholds for assessing water stress",
+                      "group": 9
+                    }
+                  ]
+                },
+                {
+                  "id": "303-4: Water discharge",
+                  "group": 5,
+                  "children": [
+                    {
+                      "id": "Impacts of pollution on biodiversity",
+                      "group": 8
+                    },
+                    {
+                      "id": "Costs of response measures",
+                      "group": 8
+                    },
+                    {
+                      "id": "Total water discharge by destination",
+                      "group": 10
+                    },
+                    {
+                      "id": "Water discharge by quality",
+                      "group": 10
+                    },
+                    {
+                      "id": "Water discharge by water stress area",
+                      "group": 10
+                    },
+                    {
+                      "id": "Treatment of priority substances of concern",
+                      "group": 10
+                    },
+                    {
+                      "id": "Calculations, standards, and assumptions for water discharge",
+                      "group": 10
+                    }
+                  ]
+                },
+                {
+                  "id": "303-5: Water consumption",
+                  "group": 6,
+                  "children": [
+                    {
+                      "id": "Costs of response measures",
+                      "group": 8
+                    },
+                    {
+                      "id": "Total water consumption",
+                      "group": 11
+                    },
+                    {
+                      "id": "Water consumption in water-stressed areas",
+                      "group": 11
+                    },
+                    {
+                      "id": "Changes in water storage",
+                      "group": 11
+                    },
+                    {
+                      "id": "Calculations, standards, and assumptions for water consumption",
+                      "group": 11
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 304: Biodiversity",
+              "group": 1,
+              "children": [
+                {
+                  "id": "304-1: Operational sites owned, leased, managed in, or adjacent to, protected areas and areas of high biodiversity value outside protected areas",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Operations in or adjacent to protected areas",
+                      "group": 7
+                    },
+                    {
+                      "id": "Geographic location and relationship to protected areas",
+                      "group": 7
+                    },
+                    {
+                      "id": "Subsurface and underground land rights",
+                      "group": 7
+                    },
+                    {
+                      "id": "Type of operations and size/location",
+                      "group": 7
+                    },
+                    {
+                      "id": "Protection status",
+                      "group": 7
+                    },
+                    {
+                      "id": "Biodiversity value",
+                      "group": 7
+                    }
+                  ]
+                },
+                {
+                  "id": "304-2: Significant impacts of activities, products and services on biodiversity",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Operations with significant actual negative impacts",
+                      "group": 36
+                    },
+                    {
+                      "id": "Approaches to addressing water-related impacts",
+                      "group": 7
+                    },
+                    {
+                      "id": "Identified significant risks",
+                      "group": 16
+                    },
+                    {
+                      "id": "Percentage of impact assessments",
+                      "group": 35
+                    },
+                    {
+                      "id": "Methods for assessing water-related impacts",
+                      "group": 7
+                    },
+                    {
+                      "id": "Impacts of pollution on biodiversity",
+                      "group": 8
+                    },
+                    {
+                      "id": "Construction or use of manufacturing plants",
+                      "group": 8
+                    },
+                    {
+                      "id": "Introduction of invasive species",
+                      "group": 8
+                    },
+                    {
+                      "id": "Reduction of species",
+                      "group": 8
+                    },
+                    {
+                      "id": "Habitat conversion",
+                      "group": 8
+                    },
+                    {
+                      "id": "Changes in ecological processes",
+                      "group": 8
+                    },
+                    {
+                      "id": "Nature of impacts (direct/indirect, positive/negative, short-term/long-term)",
+                      "group": 8
+                    },
+                    {
+                      "id": "Affected species",
+                      "group": 8
+                    },
+                    {
+                      "id": "Extent of areas impacted",
+                      "group": 8
+                    },
+                    {
+                      "id": "Duration of impacts",
+                      "group": 8
+                    },
+                    {
+                      "id": "Reversibility and irreversibility of impacts",
+                      "group": 8
+                    }
+                  ]
+                },
+                {
+                  "id": "304-3: Habitats protected or restored",
+                  "group": 4,
+                  "children": [
+                    {
+                      "id": "Size and location of habitats protected or restored",
+                      "group": 9
+                    },
+                    {
+                      "id": "Effectiveness of restoration measures",
+                      "group": 9
+                    },
+                    {
+                      "id": "Partnerships with third parties",
+                      "group": 9
+                    },
+                    {
+                      "id": "Status of restored areas",
+                      "group": 9
+                    },
+                    {
+                      "id": "Restoration standards and methods",
+                      "group": 9
+                    }
+                  ]
+                },
+                {
+                  "id": "304-4: IUCN Red List species and national conservation list species with habitats in areas affected by operations",
+                  "group": 5,
+                  "children": [
+                    {
+                      "id": "Total number of IUCN Red List species affected",
+                      "group": 10
+                    },
+                    {
+                      "id": "Number of species by level of extinction risk",
+                      "group": 10
+                    },
+                    {
+                      "id": "Species protection plans in affected areas",
+                      "group": 10
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 305: Emissions",
+              "group": 1,
+              "children": [
+                {
+                  "id": "305-1: Direct (Scope 1) GHG emissions",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Non-renewable fuel consumption and total",
+                      "group": 7
+                    },
+                    {
+                      "id": "Operating costs",
+                      "group": 7
+                    },
+                    {
+                      "id": "Sources of emission factors",
+                      "group": 12
+                    },
+                    {
+                      "id": "Costs of response measures",
+                      "group": 8
+                    },
+                    {
+                      "id": "Financial implications of risks and opportunities",
+                      "group": 8
+                    },
+                    {
+                      "id": "In metric tons of CO2 equivalent",
+                      "group": 7
+                    },
+                    {
+                      "id": "Gross direct GHG emissions",
+                      "group": 7
+                    },
+                    {
+                      "id": "Gases included in the calculation",
+                      "group": 7
+                    },
+                    {
+                      "id": "Biogenic CO2 emissions",
+                      "group": 7
+                    },
+                    {
+                      "id": "Base year and rationale for choosing it",
+                      "group": 7
+                    },
+                    {
+                      "id": "Emission factors and global warming potentials (GWP)",
+                      "group": 7
+                    },
+                    {
+                      "id": "Consolidation approach (equity share, control)",
+                      "group": 7
+                    }
+                  ]
+                },
+                {
+                  "id": "305-2: Energy indirect (Scope 2) GHG emissions",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Non-renewable fuel consumption and total",
+                      "group": 7
+                    },
+                    {
+                      "id": "Costs of response measures",
+                      "group": 8
+                    },
+                    {
+                      "id": "Financial implications of risks and opportunities",
+                      "group": 8
+                    },
+                    {
+                      "id": "In metric tons of CO2 equivalent",
+                      "group": 7
+                    },
+                    {
+                      "id": "Gases included in the calculation",
+                      "group": 7
+                    },
+                    {
+                      "id": "Gross energy indirect GHG emissions",
+                      "group": 8
+                    },
+                    {
+                      "id": "Market-based and location-based calculations (if applicable)",
+                      "group": 8
+                    },
+                    {
+                      "id": "Base year and rationale for choosing it (Scope 2)",
+                      "group": 8
+                    },
+                    {
+                      "id": "Emission factors and global warming potentials (GWP)",
+                      "group": 7
+                    },
+                    {
+                      "id": "Consolidation approach (equity share, control) (Scope 2)",
+                      "group": 8
+                    }
+                  ]
+                },
+                {
+                  "id": "305-3: Other indirect (Scope 3) GHG emissions",
+                  "group": 4,
+                  "children": [
+                    {
+                      "id": "Sources of emission factors",
+                      "group": 12
+                    },
+                    {
+                      "id": "Costs of response measures",
+                      "group": 8
+                    },
+                    {
+                      "id": "Financial implications of risks and opportunities",
+                      "group": 8
+                    },
+                    {
+                      "id": "In metric tons of CO2 equivalent",
+                      "group": 7
+                    },
+                    {
+                      "id": "Gases included in the calculation",
+                      "group": 7
+                    },
+                    {
+                      "id": "Gross other indirect GHG emissions",
+                      "group": 9
+                    },
+                    {
+                      "id": "Biogenic CO2 emissions (Scope 3)",
+                      "group": 9
+                    },
+                    {
+                      "id": "Scope 3 categories and activities included",
+                      "group": 9
+                    },
+                    {
+                      "id": "Base year and rationale for choosing it (Scope 3)",
+                      "group": 9
+                    },
+                    {
+                      "id": "Emission factors and global warming potentials (GWP)",
+                      "group": 7
+                    }
+                  ]
+                },
+                {
+                  "id": "305-4: GHG emissions intensity",
+                  "group": 5,
+                  "children": [
+                    {
+                      "id": "Emission factors and global warming potentials (GWP)",
+                      "group": 7
+                    },
+                    {
+                      "id": "Costs of response measures",
+                      "group": 8
+                    },
+                    {
+                      "id": "Financial implications of risks and opportunities",
+                      "group": 8
+                    },
+                    {
+                      "id": "Gases included in the calculation",
+                      "group": 7
+                    },
+                    {
+                      "id": "GHG emissions intensity ratio",
+                      "group": 10
+                    },
+                    {
+                      "id": "Absolute GHG emissions (numerator)",
+                      "group": 10
+                    },
+                    {
+                      "id": "Organization-specific metric (denominator)",
+                      "group": 10
+                    },
+                    {
+                      "id": "Scopes included (1, 2, 3)",
+                      "group": 10
+                    }
+                  ]
+                },
+                {
+                  "id": "305-5: Reduction of GHG emissions",
+                  "group": 6,
+                  "children": [
+                    {
+                      "id": "Energy conservation and efficiency improvement initiatives (reductions/types)",
+                      "group": 13
+                    },
+                    {
+                      "id": "Climate change risks and opportunities",
+                      "group": 8
+                    },
+                    {
+                      "id": "Costs of response measures",
+                      "group": 8
+                    },
+                    {
+                      "id": "Financial implications of risks and opportunities",
+                      "group": 8
+                    },
+                    {
+                      "id": "In metric tons of CO2 equivalent",
+                      "group": 7
+                    },
+                    {
+                      "id": "Exclusions of reductions due to decreased capacity or outsourcing",
+                      "group": 13
+                    },
+                    {
+                      "id": "GHG emissions reduced",
+                      "group": 11
+                    },
+                    {
+                      "id": "Gases included in the calculation",
+                      "group": 7
+                    },
+                    {
+                      "id": "Base year or baseline (305-5)",
+                      "group": 11
+                    },
+                    {
+                      "id": "Methodologies and assumptions used",
+                      "group": 11
+                    },
+                    {
+                      "id": "Whether reductions are direct (Scope 1), energy indirect (Scope 2), or other indirect (Scope 3)",
+                      "group": 11
+                    }
+                  ]
+                },
+                {
+                  "id": "305-6: Emissions of ozone-depleting substances (ODS)",
+                  "group": 7,
+                  "children": [
+                    {
+                      "id": "In metric tons of CFC-11 (trichlorofluoromethane) equivalent",
+                      "group": 12
+                    },
+                    {
+                      "id": "Production of ozone-depleting substances",
+                      "group": 12
+                    },
+                    {
+                      "id": "Imports of ozone-depleting substances",
+                      "group": 12
+                    },
+                    {
+                      "id": "Exports of ozone-depleting substances",
+                      "group": 12
+                    },
+                    {
+                      "id": "Substances included in calculations",
+                      "group": 12
+                    },
+                    {
+                      "id": "Sources of emission factors",
+                      "group": 12
+                    },
+                    {
+                      "id": "Emission calculation methods",
+                      "group": 12
+                    },
+                    {
+                      "id": "Standards and methodologies used",
+                      "group": 12
+                    }
+                  ]
+                },
+                {
+                  "id": "305-7: Nitrogen oxides (NOx), sulfur oxides (SOx), and other significant air emissions",
+                  "group": 8,
+                  "children": [
+                    {
+                      "id": "Production of ozone-depleting substances",
+                      "group": 12
+                    },
+                    {
+                      "id": "Significant air emissions",
+                      "group": 13
+                    },
+                    {
+                      "id": "Nitrogen oxides (NOx)",
+                      "group": 13
+                    },
+                    {
+                      "id": "Sulfur oxides (SOx)",
+                      "group": 13
+                    },
+                    {
+                      "id": "Persistent organic pollutants (POP)",
+                      "group": 13
+                    },
+                    {
+                      "id": "Volatile organic compounds (VOC)",
+                      "group": 13
+                    },
+                    {
+                      "id": "Hazardous air pollutants (HAP)",
+                      "group": 13
+                    },
+                    {
+                      "id": "Particulate matter (PM)",
+                      "group": 13
+                    },
+                    {
+                      "id": "Other standard categories of air emissions",
+                      "group": 13
+                    },
+                    {
+                      "id": "Sources of emission factors",
+                      "group": 12
+                    },
+                    {
+                      "id": "Standards and methodologies used (305-7)",
+                      "group": 13
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 306: Waste",
+              "group": 1,
+              "children": [
+                {
+                  "id": "306-1: Waste generation and significant waste-related impacts",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Impacts of pollution on biodiversity",
+                      "group": 8
+                    },
+                    {
+                      "id": "Methods for assessing water-related impacts",
+                      "group": 7
+                    },
+                    {
+                      "id": "Activities, products, and services causing waste-related impacts",
+                      "group": 7
+                    },
+                    {
+                      "id": "How activities, products, and services lead to these impacts",
+                      "group": 7
+                    },
+                    {
+                      "id": "Waste-related impacts in upstream and downstream value chain",
+                      "group": 7
+                    }
+                  ]
+                },
+                {
+                  "id": "306-2: Management of significant waste-related impacts",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Setting minimum standards for effluent quality",
+                      "group": 8
+                    },
+                    {
+                      "id": "Sources of emission factors",
+                      "group": 12
+                    },
+                    {
+                      "id": "Actions taken to prevent waste generation",
+                      "group": 8
+                    },
+                    {
+                      "id": "Circular economy-related activities",
+                      "group": 8
+                    },
+                    {
+                      "id": "Processes for collecting and monitoring waste-related data",
+                      "group": 8
+                    },
+                    {
+                      "id": "Management of significant waste-related impacts directly addressed",
+                      "group": 8
+                    },
+                    {
+                      "id": "How to confirm third parties dispose of waste in accordance with contracts or laws",
+                      "group": 8
+                    }
+                  ]
+                },
+                {
+                  "id": "306-3: Waste generated",
+                  "group": 4,
+                  "children": [
+                    {
+                      "id": "Total weight/volume of non-renewable materials",
+                      "group": 7
+                    },
+                    {
+                      "id": "Total waste generated",
+                      "group": 9
+                    },
+                    {
+                      "id": "Waste generated by composition",
+                      "group": 9
+                    },
+                    {
+                      "id": "Excluding effluents unless required by national legislation",
+                      "group": 9
+                    },
+                    {
+                      "id": "How waste data is determined",
+                      "group": 9
+                    },
+                    {
+                      "id": "Explanation of differences in waste weight statistics",
+                      "group": 9
+                    },
+                    {
+                      "id": "Information on waste composition (including criteria for hazardous waste determination)",
+                      "group": 9
+                    }
+                  ]
+                },
+                {
+                  "id": "306-4: Waste diverted from disposal",
+                  "group": 5,
+                  "children": [
+                    {
+                      "id": "Total waste diverted",
+                      "group": 10
+                    },
+                    {
+                      "id": "Waste diverted by composition",
+                      "group": 10
+                    },
+                    {
+                      "id": "Hazardous waste diverted",
+                      "group": 10
+                    },
+                    {
+                      "id": "Non-hazardous waste diverted",
+                      "group": 10
+                    },
+                    {
+                      "id": "Waste recovered on-site and off-site",
+                      "group": 10
+                    },
+                    {
+                      "id": "Amounts by specific recovery operations",
+                      "group": 10
+                    }
+                  ]
+                },
+                {
+                  "id": "306-5: Waste directed to disposal",
+                  "group": 6,
+                  "children": [
+                    {
+                      "id": "Total waste directed to disposal",
+                      "group": 11
+                    },
+                    {
+                      "id": "Waste directed to disposal by composition",
+                      "group": 11
+                    },
+                    {
+                      "id": "Hazardous waste directed to disposal",
+                      "group": 11
+                    },
+                    {
+                      "id": "Non-hazardous waste directed to disposal",
+                      "group": 11
+                    },
+                    {
+                      "id": "Waste directed to disposal on-site and off-site",
+                      "group": 11
+                    },
+                    {
+                      "id": "Amounts by specific disposal operations",
+                      "group": 11
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 307: Environmental Compliance",
+              "group": 1,
+              "children": [
+                {
+                  "id": "307-1: Non-compliance with environmental laws and regulations",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Total number of non-monetary sanctions",
+                      "group": 46
+                    },
+                    {
+                      "id": "Number of pending legal actions",
+                      "group": 19
+                    },
+                    {
+                      "id": "Sources of emission factors",
+                      "group": 12
+                    },
+                    {
+                      "id": "Improvement and prevention measures",
+                      "group": 46
+                    },
+                    {
+                      "id": "Total monetary value of significant fines",
+                      "group": 7
+                    },
+                    {
+                      "id": "Number of non-monetary sanctions",
+                      "group": 7
+                    },
+                    {
+                      "id": "Cases brought through dispute resolution mechanisms",
+                      "group": 7
+                    },
+                    {
+                      "id": "Details of individual significant non-compliance incidents",
+                      "group": 7
+                    },
+                    {
+                      "id": "How significant non-compliance is determined",
+                      "group": 7
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 308: Supplier Environmental Assessment",
+              "group": 1,
+              "children": [
+                {
+                  "id": "308-1: New suppliers that were screened using environmental criteria",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Percentage of new suppliers screened using social criteria",
+                      "group": 37
+                    },
+                    {
+                      "id": "Supplier assessment processes",
+                      "group": 37
+                    },
+                    {
+                      "id": "Percentage of new suppliers screened using environmental criteria",
+                      "group": 7
+                    },
+                    {
+                      "id": "Environmental screening criteria",
+                      "group": 7
+                    },
+                    {
+                      "id": "Methods for implementing screening",
+                      "group": 7
+                    }
+                  ]
+                },
+                {
+                  "id": "308-2: Negative environmental impacts in the supply chain and actions taken",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Number of suppliers with significant negative impacts",
+                      "group": 38
+                    },
+                    {
+                      "id": "Social impact assessments carried out as part of engagement processes",
+                      "group": 34
+                    },
+                    {
+                      "id": "Types of operations and suppliers at risk of forced labor",
+                      "group": 18
+                    },
+                    {
+                      "id": "Types of operations or suppliers in violation or at significant risk",
+                      "group": 28
+                    },
+                    {
+                      "id": "Suppliers at risk of forced labor",
+                      "group": 29
+                    },
+                    {
+                      "id": "Percentage of impact assessments",
+                      "group": 35
+                    },
+                    {
+                      "id": "Financial implications of risks and opportunities",
+                      "group": 8
+                    },
+                    {
+                      "id": "Number of suppliers assessed for social impacts",
+                      "group": 38
+                    },
+                    {
+                      "id": "Number of suppliers assessed for environmental impacts",
+                      "group": 8
+                    },
+                    {
+                      "id": "Number of suppliers identified as having significant actual and potential negative environmental impacts",
+                      "group": 8
+                    },
+                    {
+                      "id": "Significant actual and potential negative environmental impacts identified in the supply chain",
+                      "group": 8
+                    },
+                    {
+                      "id": "Percentage of suppliers identified as having significant actual and potential negative environmental impacts with which improvements were agreed upon as a result of assessment",
+                      "group": 8
+                    },
+                    {
+                      "id": "Percentage of suppliers identified as having significant actual and potential negative environmental impacts with which relationships were terminated as a result of assessment, and why",
+                      "group": 8
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GRI 400: Social Standards Series",
+          "group": 3,
+          "children": [
+            {
+              "id": "GRI 401: Employment",
+              "group": 1,
+              "children": [
+                {
+                  "id": "401-1: New employee hires and employee turnover",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Return to work rate",
+                      "group": 9
+                    },
+                    {
+                      "id": "Retention rate",
+                      "group": 18
+                    },
+                    {
+                      "id": "Total number and rate of new employee hires",
+                      "group": 7
+                    },
+                    {
+                      "id": "Total number and rate of employee turnover",
+                      "group": 7
+                    },
+                    {
+                      "id": "Data broken down by gender",
+                      "group": 7
+                    },
+                    {
+                      "id": "Data broken down by age group",
+                      "group": 7
+                    },
+                    {
+                      "id": "Data broken down by region",
+                      "group": 7
+                    }
+                  ]
+                },
+                {
+                  "id": "401-2: Benefits provided to full-time employees",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Benefits eligible for parental leave",
+                      "group": 9
+                    },
+                    {
+                      "id": "Life insurance provided",
+                      "group": 9
+                    },
+                    {
+                      "id": "Health care provided",
+                      "group": 8
+                    },
+                    {
+                      "id": "Benefits not provided to temporary or part-time employees",
+                      "group": 8
+                    },
+                    {
+                      "id": "Differences in benefits at significant locations of operation",
+                      "group": 8
+                    },
+                    {
+                      "id": "Retirement provisions",
+                      "group": 8
+                    },
+                    {
+                      "id": "Stock ownership",
+                      "group": 8
+                    }
+                  ]
+                },
+                {
+                  "id": "401-3: Parental leave",
+                  "group": 4,
+                  "children": [
+                    {
+                      "id": "Total number of employees entitled to parental leave",
+                      "group": 9
+                    },
+                    {
+                      "id": "Total number of employees that took parental leave",
+                      "group": 9
+                    },
+                    {
+                      "id": "Number of employees that returned to work after parental leave",
+                      "group": 9
+                    },
+                    {
+                      "id": "Number of employees that returned to work after parental leave and were still employed 12 months later",
+                      "group": 9
+                    },
+                    {
+                      "id": "Return to work and retention rates after parental leave",
+                      "group": 9
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 402: Labor/Management Relations",
+              "group": 2,
+              "children": [
+                {
+                  "id": "402-1: Minimum notice periods regarding operational changes",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Minimum notice periods for significant operational changes",
+                      "group": 10
+                    },
+                    {
+                      "id": "Notice provisions in collective agreements",
+                      "group": 10
+                    },
+                    {
+                      "id": "Consultation practices between the organization and employees and their representatives",
+                      "group": 10
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 403: Occupational Health and Safety",
+              "group": 3,
+              "children": [
+                {
+                  "id": "403-1: Occupational health and safety management system",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Processes for continual improvement of the management system",
+                      "group": 42
+                    },
+                    {
+                      "id": "Implementation of the management system",
+                      "group": 11
+                    },
+                    {
+                      "id": "Legal or standard basis for the management system",
+                      "group": 11
+                    },
+                    {
+                      "id": "Workers covered by the management system",
+                      "group": 11
+                    },
+                    {
+                      "id": "Activities and workplaces covered",
+                      "group": 11
+                    }
+                  ]
+                },
+                {
+                  "id": "403-2: Hazard identification, risk assessment, and incident investigation",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Hierarchy of controls",
+                      "group": 36
+                    },
+                    {
+                      "id": "Items based on legal requirements",
+                      "group": 35
+                    },
+                    {
+                      "id": "Processes for reporting occupational hazards and hazardous situations",
+                      "group": 12
+                    },
+                    {
+                      "id": "Addressing barriers to workers vulnerable to occupational risks",
+                      "group": 12
+                    },
+                    {
+                      "id": "Right to refuse or stop unsafe work",
+                      "group": 12
+                    }
+                  ]
+                },
+                {
+                  "id": "403-3: Occupational health services",
+                  "group": 4,
+                  "children": [
+                    {
+                      "id": "Legal or standard basis for occupational health services",
+                      "group": 11
+                    },
+                    {
+                      "id": "Functions of occupational health services",
+                      "group": 13
+                    },
+                    {
+                      "id": "Mechanisms for ensuring quality of services",
+                      "group": 13
+                    },
+                    {
+                      "id": "Measures for confidentiality of health information",
+                      "group": 13
+                    }
+                  ]
+                },
+                {
+                  "id": "403-4: Worker participation, consultation, and communication on occupational health and safety",
+                  "group": 5,
+                  "children": [
+                    {
+                      "id": "Mechanisms for worker participation",
+                      "group": 14
+                    },
+                    {
+                      "id": "Establishment and operation of occupational health and safety committees",
+                      "group": 14
+                    },
+                    {
+                      "id": "Consultations conducted for implementation and evaluation",
+                      "group": 14
+                    },
+                    {
+                      "id": "Committee meeting frequency and decision-making",
+                      "group": 14
+                    }
+                  ]
+                },
+                {
+                  "id": "403-5: Worker training on occupational health and safety",
+                  "group": 6,
+                  "children": [
+                    {
+                      "id": "Paid free training provided",
+                      "group": 31
+                    },
+                    {
+                      "id": "Methods for assessing training effectiveness",
+                      "group": 15
+                    },
+                    {
+                      "id": "Requirements for mandatory or compensated training",
+                      "group": 15
+                    },
+                    {
+                      "id": "Methods and frequency of training delivery",
+                      "group": 15
+                    },
+                    {
+                      "id": "Methods for assessing training needs",
+                      "group": 15
+                    }
+                  ]
+                },
+                {
+                  "id": "403-6: Promotion of worker health",
+                  "group": 7,
+                  "children": [
+                    {
+                      "id": "Access to health services",
+                      "group": 16
+                    },
+                    {
+                      "id": "Health promotion programs",
+                      "group": 16
+                    },
+                    {
+                      "id": "Measures for protecting health-related information",
+                      "group": 16
+                    },
+                    {
+                      "id": "Programs for participation in voluntary services and plans",
+                      "group": 16
+                    }
+                  ]
+                },
+                {
+                  "id": "403-7: Prevention and mitigation of occupational health and safety impacts directly linked by business relationships",
+                  "group": 8,
+                  "children": [
+                    {
+                      "id": "Design or adoption of occupational health and safety management measures",
+                      "group": 13
+                    },
+                    {
+                      "id": "Assessment of occupational health and safety risks in supply chain or business partners",
+                      "group": 13
+                    },
+                    {
+                      "id": "Inclusion of health and safety requirements in contracts or codes of conduct",
+                      "group": 13
+                    },
+                    {
+                      "id": "Assistance to suppliers to improve occupational health and safety performance",
+                      "group": 11
+                    },
+                    {
+                      "id": "Establishment of regular communication, audits, or education mechanisms to share safety policies with partners",
+                      "group": 7
+                    }
+                  ]
+                },
+                {
+                  "id": "403-8: Workers covered by an occupational health and safety management system",
+                  "group": 9,
+                  "children": [
+                    {
+                      "id": "Percentage of employees and non-employees audited internally",
+                      "group": 18
+                    },
+                    {
+                      "id": "Percentage of employees and non-employees audited externally",
+                      "group": 18
+                    },
+                    {
+                      "id": "Types of workers excluded",
+                      "group": 18
+                    },
+                    {
+                      "id": "Data collection and calculation methods",
+                      "group": 18
+                    }
+                  ]
+                },
+                {
+                  "id": "403-9: Work-related injuries",
+                  "group": 10,
+                  "children": [
+                    {
+                      "id": "Rate of fatalities as a result of work-related injury",
+                      "group": 11
+                    },
+                    {
+                      "id": "Rate of high-consequence work-related injuries (excluding fatalities)",
+                      "group": 19
+                    },
+                    {
+                      "id": "Hours actually worked",
+                      "group": 19
+                    },
+                    {
+                      "id": "Main types of injuries and hazards",
+                      "group": 19
+                    },
+                    {
+                      "id": "Actions to eliminate hazards and minimize risks",
+                      "group": 19
+                    }
+                  ]
+                },
+                {
+                  "id": "403-10: Work-related ill health",
+                  "group": 11,
+                  "children": [
+                    {
+                      "id": "Rate of fatalities as a result of work-related ill health",
+                      "group": 19
+                    },
+                    {
+                      "id": "Number of cases of recordable work-related ill health",
+                      "group": 20
+                    },
+                    {
+                      "id": "Main types of work-related ill health and hazards",
+                      "group": 20
+                    },
+                    {
+                      "id": "Actions to prevent or mitigate work-related ill health",
+                      "group": 20
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 404: Training and Education",
+              "group": 4,
+              "children": [
+                {
+                  "id": "404-1: Average hours of training per year per employee",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Average training hours for all employees",
+                      "group": 21
+                    },
+                    {
+                      "id": "Average training hours broken down by gender",
+                      "group": 21
+                    },
+                    {
+                      "id": "Average training hours broken down by employee category",
+                      "group": 21
+                    }
+                  ]
+                },
+                {
+                  "id": "404-2: Programs for upgrading employee skills and transition assistance programs",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Communication and training for governance body members",
+                      "group": 17
+                    },
+                    {
+                      "id": "Programs implemented to enhance employee skills",
+                      "group": 13
+                    },
+                    {
+                      "id": "Transition assistance programs provided to employees whose employment is terminated or who retire",
+                      "group": 13
+                    }
+                  ]
+                },
+                {
+                  "id": "404-3: Percentage of employees receiving regular performance and career development reviews",
+                  "group": 4,
+                  "children": [
+                    {
+                      "id": "Percentage receiving reviews broken down by gender",
+                      "group": 23
+                    },
+                    {
+                      "id": "Percentage receiving reviews broken down by employee category",
+                      "group": 23
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 405: Diversity and Equal Opportunity",
+              "group": 5,
+              "children": [
+                {
+                  "id": "405-1: Diversity of governance bodies and employees",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Diversity indicators for governance body members",
+                      "group": 24
+                    },
+                    {
+                      "id": "Diversity indicators for employee categories",
+                      "group": 24
+                    },
+                    {
+                      "id": "Percentage data broken down by gender",
+                      "group": 24
+                    },
+                    {
+                      "id": "Percentage data broken down by age group",
+                      "group": 24
+                    },
+                    {
+                      "id": "Percentage of minority or vulnerable groups",
+                      "group": 24
+                    }
+                  ]
+                },
+                {
+                  "id": "405-2: Ratio of basic salary and remuneration of women to men",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Gender remuneration ratios by employee category",
+                      "group": 25
+                    },
+                    {
+                      "id": "Gender remuneration ratios at significant locations of operation",
+                      "group": 25
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 406: Non-discrimination",
+              "group": 6,
+              "children": [
+                {
+                  "id": "406-1: Incidents of discrimination and corrective actions taken",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Total number of incidents of discrimination during the reporting period",
+                      "group": 18
+                    },
+                    {
+                      "id": "Status of the incidents reviewed",
+                      "group": 45
+                    },
+                    {
+                      "id": "Remediation plans implemented",
+                      "group": 26
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 407: Freedom of Association and Collective Bargaining",
+              "group": 7,
+              "children": [
+                {
+                  "id": "407-1: Operations and suppliers in which the right to freedom of association and collective bargaining may be at risk",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Types of operations or suppliers in violation or at significant risk",
+                      "group": 28
+                    },
+                    {
+                      "id": "Operations and suppliers at risk located in countries or geographic areas",
+                      "group": 27
+                    },
+                    {
+                      "id": "Measures taken to support rights to freedom of association and collective bargaining",
+                      "group": 27
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 408: Child Labor",
+              "group": 8,
+              "children": [
+                {
+                  "id": "408-1: Operations and suppliers at significant risk for incidents of child labor",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Operations and suppliers using child labor",
+                      "group": 28
+                    },
+                    {
+                      "id": "Operations and suppliers using young workers exposed to hazardous work",
+                      "group": 28
+                    },
+                    {
+                      "id": "Types of operations and suppliers at risk of child labor",
+                      "group": 28
+                    },
+                    {
+                      "id": "Operations and suppliers at risk of child labor located in countries or geographic areas",
+                      "group": 28
+                    },
+                    {
+                      "id": "Measures taken intended to contribute to the effective abolition of child labor",
+                      "group": 28
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 409: Forced or Compulsory Labor",
+              "group": 9,
+              "children": [
+                {
+                  "id": "409-1: Operations and suppliers at significant risk for incidents of forced or compulsory labor",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Suppliers at risk of forced labor",
+                      "group": 29
+                    },
+                    {
+                      "id": "Number of suppliers assessed for social impacts",
+                      "group": 38
+                    },
+                    {
+                      "id": "Types of operations and suppliers at risk of forced labor",
+                      "group": 18
+                    },
+                    {
+                      "id": "Operations and suppliers at risk of forced labor located in countries or geographic areas",
+                      "group": 29
+                    },
+                    {
+                      "id": "Measures taken to contribute to the elimination of all forms of forced or compulsory labor",
+                      "group": 29
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 410: Security Practices",
+              "group": 10,
+              "children": [
+                {
+                  "id": "410-1: Security personnel trained in human rights policies or procedures",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Percentage of security personnel trained",
+                      "group": 30
+                    },
+                    {
+                      "id": "Training requirements provided to third-party security providers",
+                      "group": 30
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 411: Rights of Indigenous Peoples",
+              "group": 11,
+              "children": [
+                {
+                  "id": "411-1: Incidents of violations involving rights of indigenous peoples",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Total number of incidents of violations involving rights of indigenous peoples",
+                      "group": 31
+                    },
+                    {
+                      "id": "Status of the incidents",
+                      "group": 31
+                    },
+                    {
+                      "id": "Remediation measures",
+                      "group": 31
+                    },
+                    {
+                      "id": "Indigenous peoples' rights policies",
+                      "group": 31
+                    },
+                    {
+                      "id": "Incident prevention mechanisms",
+                      "group": 31
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 412: Human Rights Assessment",
+              "group": 12,
+              "children": [
+                {
+                  "id": "412-1: Operations that have been subject to human rights reviews or impact assessments",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Status of the incidents reviewed",
+                      "group": 45
+                    },
+                    {
+                      "id": "Number of suppliers assessed for social impacts",
+                      "group": 38
+                    },
+                    {
+                      "id": "Percentage of operations with human rights reviews by country or region",
+                      "group": 32
+                    },
+                    {
+                      "id": "Total number of operations assessed",
+                      "group": 32
+                    }
+                  ]
+                },
+                {
+                  "id": "412-2: Employee training on human rights policies or procedures",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Percentage of security personnel trained",
+                      "group": 30
+                    },
+                    {
+                      "id": "Employee training on organizational human rights",
+                      "group": 30
+                    },
+                    {
+                      "id": "Total hours of training",
+                      "group": 33
+                    },
+                    {
+                      "id": "Content and format of training",
+                      "group": 33
+                    },
+                    {
+                      "id": "Percentage of employees trained",
+                      "group": 33
+                    }
+                  ]
+                },
+                {
+                  "id": "412-3: Significant investment agreements and contracts that include human rights clauses or that underwent human rights screening",
+                  "group": 4,
+                  "children": [
+                    {
+                      "id": "Number of significant agreements with human rights clauses",
+                      "group": 34
+                    },
+                    {
+                      "id": "Percentage of significant agreements with human rights clauses",
+                      "group": 34
+                    },
+                    {
+                      "id": "Transparency and accountability",
+                      "group": 34
+                    },
+                    {
+                      "id": "Implementation of management and risk controls",
+                      "group": 34
+                    },
+                    {
+                      "id": "Scope and content of human rights screening",
+                      "group": 34
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 413: Local Communities",
+              "group": 13,
+              "children": [
+                {
+                  "id": "413-1: Operations with local community engagement, impact assessments, and development programs",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Stakeholder engagement on tax issues",
+                      "group": 22
+                    },
+                    {
+                      "id": "Percentage of community engagement",
+                      "group": 35
+                    },
+                    {
+                      "id": "Percentage of assessment results publicly disclosed",
+                      "group": 35
+                    },
+                    {
+                      "id": "Percentage of impact assessments",
+                      "group": 35
+                    },
+                    {
+                      "id": "Community investments",
+                      "group": 7
+                    },
+                    {
+                      "id": "Affected communities and economies",
+                      "group": 13
+                    },
+                    {
+                      "id": "Social impact assessments carried out as part of engagement processes",
+                      "group": 34
+                    },
+                    {
+                      "id": "Environmental impact assessments and ongoing monitoring",
+                      "group": 35
+                    },
+                    {
+                      "id": "Public disclosure of results of environmental and social impact assessments",
+                      "group": 35
+                    },
+                    {
+                      "id": "Community development programs based on local communities' needs",
+                      "group": 35
+                    },
+                    {
+                      "id": "Stakeholder advisory panels and processes for vulnerable groups",
+                      "group": 35
+                    },
+                    {
+                      "id": "Broad-based local community consultation committees and processes",
+                      "group": 35
+                    },
+                    {
+                      "id": "Stakeholder engagement plans designed with diverse stakeholders",
+                      "group": 35
+                    },
+                    {
+                      "id": "Formal local community grievance processes",
+                      "group": 35
+                    }
+                  ]
+                },
+                {
+                  "id": "413-2: Operations with significant actual and potential negative impacts on local communities",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Total number of incidents of violations involving rights of indigenous peoples",
+                      "group": 31
+                    },
+                    {
+                      "id": "Affected communities and economies",
+                      "group": 13
+                    },
+                    {
+                      "id": "Number of suppliers assessed for social impacts",
+                      "group": 38
+                    },
+                    {
+                      "id": "Locations of operations",
+                      "group": 35
+                    },
+                    {
+                      "id": "Operations with significant actual negative impacts",
+                      "group": 36
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 414: Supplier Social Assessment",
+              "group": 14,
+              "children": [
+                {
+                  "id": "414-1: New suppliers that were screened using social criteria",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Supplier assessment processes",
+                      "group": 37
+                    },
+                    {
+                      "id": "Number of suppliers assessed for social impacts",
+                      "group": 38
+                    },
+                    {
+                      "id": "Percentage undergoing social impact due diligence",
+                      "group": 7
+                    },
+                    {
+                      "id": "Percentage of new suppliers screened using social criteria",
+                      "group": 37
+                    }
+                  ]
+                },
+                {
+                  "id": "414-2: Negative social impacts in the supply chain and actions taken",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Social impact assessments carried out as part of engagement processes",
+                      "group": 34
+                    },
+                    {
+                      "id": "Operations and suppliers using child labor",
+                      "group": 28
+                    },
+                    {
+                      "id": "Number of suppliers assessed for environmental impacts",
+                      "group": 8
+                    },
+                    {
+                      "id": "Suppliers at risk of forced labor",
+                      "group": 29
+                    },
+                    {
+                      "id": "Jobs supported in the supply chain",
+                      "group": 14
+                    },
+                    {
+                      "id": "Percentage of impact assessments",
+                      "group": 35
+                    },
+                    {
+                      "id": "Financial implications of risks and opportunities",
+                      "group": 8
+                    },
+                    {
+                      "id": "Suppliers at risk of forced labor",
+                      "group": 29
+                    },
+                    {
+                      "id": "Number of suppliers assessed for social impacts",
+                      "group": 38
+                    },
+                    {
+                      "id": "Number of suppliers with significant negative impacts",
+                      "group": 38
+                    },
+                    {
+                      "id": "Percentage of suppliers identified as having significant negative social impacts with which relationships were terminated as a result of assessment",
+                      "group": 38
+                    },
+                    {
+                      "id": "Percentage of suppliers identified as having significant negative social impacts with which improvements were agreed upon as a result of assessment",
+                      "group": 38
+                    },
+                    {
+                      "id": "Significant actual and potential negative social impacts identified in the supply chain",
+                      "group": 38
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 415: Public Policy",
+              "group": 15,
+              "children": [
+                {
+                  "id": "415-1: Political contributions",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Total monetary value of political contributions",
+                      "group": 39
+                    },
+                    {
+                      "id": "Contributions by country/region and recipient/beneficiary",
+                      "group": 39
+                    },
+                    {
+                      "id": "Description of method for calculating contributions",
+                      "group": 39
+                    },
+                    {
+                      "id": "Calculation method in accordance with international accounting standards",
+                      "group": 39
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 416: Customer Health and Safety",
+              "group": 16,
+              "children": [
+                {
+                  "id": "416-1: Assessment of the health and safety impacts of product and service categories",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Significant product and service categories assessed",
+                      "group": 40
+                    }
+                  ]
+                },
+                {
+                  "id": "416-2: Incidents of non-compliance concerning the health and safety impacts of products and services",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Total number of incidents of non-compliance",
+                      "group": 41
+                    },
+                    {
+                      "id": "Incidents of non-compliance resulting in a fine or penalty",
+                      "group": 41
+                    },
+                    {
+                      "id": "Incidents of non-compliance resulting in a warning",
+                      "group": 41
+                    },
+                    {
+                      "id": "Incidents of non-compliance with voluntary codes",
+                      "group": 41
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 417: Marketing and Labeling",
+              "group": 17,
+              "children": [
+                {
+                  "id": "417-1: Requirements for product and service information and labeling",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Significant product and service categories assessed",
+                      "group": 40
+                    },
+                    {
+                      "id": "Requirements for product content",
+                      "group": 42
+                    },
+                    {
+                      "id": "Requirements for product sourcing information",
+                      "group": 42
+                    },
+                    {
+                      "id": "Safe use of products or services",
+                      "group": 42
+                    },
+                    {
+                      "id": "Labeling for disposal impacts on society and environment",
+                      "group": 42
+                    },
+                    {
+                      "id": "Percentage of product or service categories subject to regulatory assessment",
+                      "group": 42
+                    }
+                  ]
+                },
+                {
+                  "id": "417-2: Incidents of non-compliance concerning product and service information and labeling",
+                  "group": 3,
+                  "children": [
+                    {
+                      "id": "Total number of incidents of non-compliance",
+                      "group": 41
+                    },
+                    {
+                      "id": "Total number of incidents of non-compliance with regulations concerning information and labeling",
+                      "group": 43
+                    },
+                    {
+                      "id": "Incidents of non-compliance resulting in a fine or penalty",
+                      "group": 43
+                    },
+                    {
+                      "id": "Incidents of non-compliance resulting in a warning",
+                      "group": 43
+                    },
+                    {
+                      "id": "Incidents of non-compliance with voluntary codes",
+                      "group": 43
+                    }
+                  ]
+                },
+                {
+                  "id": "417-3: Incidents of non-compliance concerning marketing communications",
+                  "group": 4,
+                  "children": [
+                    {
+                      "id": "Total number of incidents of non-compliance",
+                      "group": 41
+                    },
+                    {
+                      "id": "Total number of incidents of non-compliance with regulations concerning marketing communications",
+                      "group": 44
+                    },
+                    {
+                      "id": "Marketing non-compliance resulting in a fine or penalty",
+                      "group": 44
+                    },
+                    {
+                      "id": "Marketing non-compliance resulting in a warning",
+                      "group": 44
+                    },
+                    {
+                      "id": "Incidents of non-compliance with voluntary codes concerning marketing",
+                      "group": 44
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 418: Customer Privacy",
+              "group": 18,
+              "children": [
+                {
+                  "id": "418-1: Substantiated complaints concerning breaches of customer privacy and losses of customer data",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Complaints received from outside parties and substantiated",
+                      "group": 45
+                    },
+                    {
+                      "id": "Complaints from regulatory bodies",
+                      "group": 45
+                    },
+                    {
+                      "id": "Total number of identified incidents of leaks, thefts, or losses of data",
+                      "group": 45
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "GRI 419: Socioeconomic Compliance",
+              "group": 19,
+              "children": [
+                {
+                  "id": "419-1: Non-compliance with laws and regulations in the social and economic area",
+                  "group": 2,
+                  "children": [
+                    {
+                      "id": "Improvement and prevention measures",
+                      "group": 46
+                    },
+                    {
+                      "id": "Number of pending legal actions",
+                      "group": 19
+                    },
+                    {
+                      "id": "Total monetary value of significant fines",
+                      "group": 46
+                    },
+                    {
+                      "id": "Total number of non-monetary sanctions",
+                      "group": 46
+                    },
+                    {
+                      "id": "Cases brought through dispute resolution mechanisms",
+                      "group": 46
+                    },
+                    {
+                      "id": "Context and circumstances of significant fines and non-monetary sanctions",
+                      "group": 46
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

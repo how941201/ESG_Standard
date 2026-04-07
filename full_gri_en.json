@@ -5,6 +5,620 @@
       "group": 0,
       "children": [
         {
+          "id": "GRI 2: General Disclosures",
+          "group": 4,
+          "children": [
+            {
+              "id": "2-1: Organizational details",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Legal name",
+                  "group": 10
+                },
+                {
+                  "id": "Nature of ownership and legal form",
+                  "group": 10
+                },
+                {
+                  "id": "Location of headquarters",
+                  "group": 10
+                },
+                {
+                  "id": "Countries of operation",
+                  "group": 10
+                }
+              ]
+            },
+            {
+              "id": "2-2: Entities included in the organization's sustainability reporting",
+              "group": 5,
+              "children": [
+                {
+                  "id": "List of all entities included in sustainability reporting",
+                  "group": 10
+                },
+                {
+                  "id": "Differences between entities in financial reporting and sustainability reporting",
+                  "group": 10
+                },
+                {
+                  "id": "Method of consolidation (minority interest adjustments, mergers/acquisitions/disposals)",
+                  "group": 10
+                }
+              ]
+            },
+            {
+              "id": "2-3: Reporting period, frequency and contact point",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Reporting period and frequency of sustainability reporting",
+                  "group": 11
+                },
+                {
+                  "id": "Financial reporting period (explain if different)",
+                  "group": 11
+                },
+                {
+                  "id": "Date of report publication",
+                  "group": 11
+                },
+                {
+                  "id": "Report contact point",
+                  "group": 11
+                }
+              ]
+            },
+            {
+              "id": "2-4: Restatements of information",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Reasons for restating information from previous periods",
+                  "group": 12
+                },
+                {
+                  "id": "Effects of restatements (quantitative changes)",
+                  "group": 12
+                }
+              ]
+            },
+            {
+              "id": "2-5: External assurance / assurance",
+              "group": 5,
+              "children": [
+                {
+                  "id": "External assurance policy and practices (involvement of highest governance body)",
+                  "group": 13
+                },
+                {
+                  "id": "Link or reference to the assurance report",
+                  "group": 13
+                },
+                {
+                  "id": "Assurance content, standards, level, and limitations",
+                  "group": 13
+                },
+                {
+                  "id": "Relationship between the organization and the assurance provider",
+                  "group": 13
+                }
+              ]
+            },
+            {
+              "id": "2-6: Activities, value chain and other business relationships",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Current industry/sector",
+                  "group": 14
+                },
+                {
+                  "id": "Description of the value chain (activities, products/services, markets, supply chain, downstream entities)",
+                  "group": 14
+                },
+                {
+                  "id": "Other relevant business relationships",
+                  "group": 14
+                },
+                {
+                  "id": "Significant changes compared to the previous period",
+                  "group": 14
+                }
+              ]
+            },
+            {
+              "id": "2-7: Employees",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Total number of employees (by gender and region)",
+                  "group": 15
+                },
+                {
+                  "id": "Permanent / temporary / non-guaranteed hours / full-time / part-time employees (by gender and region)",
+                  "group": 15
+                },
+                {
+                  "id": "Data collection methods and assumptions (headcount / FTE, end-of-period / average)",
+                  "group": 15
+                },
+                {
+                  "id": "Contextual information",
+                  "group": 15
+                },
+                {
+                  "id": "Significant fluctuations in employee numbers",
+                  "group": 15
+                }
+              ]
+            },
+            {
+              "id": "2-8: Workers who are not employees",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Total number of non-employee workers controlled by the organization",
+                  "group": 16
+                },
+                {
+                  "id": "Most common types, contractual relationships, and types of work",
+                  "group": 16
+                },
+                {
+                  "id": "Data collection methods and assumptions",
+                  "group": 16
+                },
+                {
+                  "id": "Significant fluctuations in non-employee worker numbers",
+                  "group": 16
+                }
+              ]
+            },
+            {
+              "id": "2-9: Governance structure and composition",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Governance structure (highest governance body and committees)",
+                  "group": 17
+                },
+                {
+                  "id": "Committees responsible for overseeing impact management",
+                  "group": 17
+                },
+                {
+                  "id": "Composition details (executive/non-executive, independent, tenure, other positions, gender, vulnerable groups, competencies, stakeholder representatives)",
+                  "group": 17
+                }
+              ]
+            },
+            {
+              "id": "2-10: Nomination and selection of the highest governance body",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Nomination and selection process",
+                  "group": 18
+                },
+                {
+                  "id": "Selection criteria (stakeholder perspectives, diversity, independence, impact-related competencies)",
+                  "group": 18
+                }
+              ]
+            },
+            {
+              "id": "2-11: Chair of the highest governance body",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Whether the chair is also a member of senior management",
+                  "group": 19
+                },
+                {
+                  "id": "Function, reasons, and measures to avoid conflicts of interest",
+                  "group": 19
+                }
+              ]
+            },
+            {
+              "id": "2-12: Role of the highest governance body in overseeing the management of impacts",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Role in purpose, strategy, policies, and targets",
+                  "group": 20
+                },
+                {
+                  "id": "Oversight of due diligence and impact management processes",
+                  "group": 20
+                },
+                {
+                  "id": "Engagement with stakeholders and review of process effectiveness",
+                  "group": 20
+                }
+              ]
+            },
+            {
+              "id": "2-13: Delegation of responsibility for managing impacts",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Delegated responsibility (senior management or other employees)",
+                  "group": 21
+                },
+                {
+                  "id": "Reporting lines and frequency",
+                  "group": 21
+                }
+              ]
+            },
+            {
+              "id": "2-14: Role of the highest governance body in sustainability reporting",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Responsibility and process for reviewing and approving reported information (including material topics)",
+                  "group": 22
+                }
+              ]
+            },
+            {
+              "id": "2-15: Conflicts of interest",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Processes to avoid and mitigate conflicts of interest",
+                  "group": 23
+                },
+                {
+                  "id": "Disclosure of conflicts of interest to stakeholders (other board positions, cross-shareholdings, etc.)",
+                  "group": 23
+                }
+              ]
+            },
+            {
+              "id": "2-16: Communication of critical concerns",
+              "group": 5,
+              "children": [
+                {
+                  "id": "How critical concerns are communicated to the highest governance body",
+                  "group": 24
+                },
+                {
+                  "id": "Total number and nature of critical concerns communicated",
+                  "group": 24
+                }
+              ]
+            },
+            {
+              "id": "2-17: Collective knowledge of the highest governance body",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Measures to enhance collective knowledge, skills, and experience in sustainable development",
+                  "group": 25
+                }
+              ]
+            },
+            {
+              "id": "2-18: Evaluation of the performance of the highest governance body",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Process for evaluating performance in overseeing impact management",
+                  "group": 26
+                },
+                {
+                  "id": "Independence and frequency of evaluation",
+                  "group": 26
+                },
+                {
+                  "id": "Actions taken in response to evaluations (changes in composition or practices)",
+                  "group": 26
+                }
+              ]
+            },
+            {
+              "id": "2-19: Remuneration policies",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Fixed/variable pay, sign-on bonuses, severance pay, clawback mechanisms, retirement benefits",
+                  "group": 27
+                },
+                {
+                  "id": "Linkage to economic, environmental, and people-related impact targets and performance",
+                  "group": 27
+                }
+              ]
+            },
+            {
+              "id": "2-20: Process to determine remuneration",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Design and decision-making process for remuneration policies (independent committee, stakeholder input, remuneration consultants)",
+                  "group": 28
+                },
+                {
+                  "id": "Results of stakeholder votes on remuneration",
+                  "group": 28
+                }
+              ]
+            },
+            {
+              "id": "2-21: Annual total compensation ratio",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Ratio of the highest-paid individual to the median of other employees",
+                  "group": 29
+                },
+                {
+                  "id": "Ratio of the percentage increase in median compensation",
+                  "group": 29
+                },
+                {
+                  "id": "Contextual information and compilation method",
+                  "group": 29
+                }
+              ]
+            },
+            {
+              "id": "2-22: Statement on sustainable development strategy",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Statement from the highest governance body or senior management on the sustainable development strategy",
+                  "group": 30
+                }
+              ]
+            },
+            {
+              "id": "2-23: Policy commitments",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Policy commitments on responsible business conduct (referenced intergovernmental instruments, due diligence, precautionary principle, human rights)",
+                  "group": 31
+                },
+                {
+                  "id": "Specific commitments to respect human rights",
+                  "group": 31
+                },
+                {
+                  "id": "Status of public availability, approval level, scope of application, and communication method",
+                  "group": 31
+                }
+              ]
+            },
+            {
+              "id": "2-24: Embedding policy commitments",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Embedding policy commitments into organizational activities and business relationships",
+                  "group": 42
+                },
+                {
+                  "id": "Assignment of responsibility for implementing policy commitments at all levels",
+                  "group": 42
+                },
+                {
+                  "id": "Integration of policy commitments into organizational strategies, operational policies, and procedures",
+                  "group": 42
+                },
+                {
+                  "id": "How policy commitments are fulfilled through business relationships (e.g., supply chain)",
+                  "group": 42
+                },
+                {
+                  "id": "Provision of training related to fulfilling policy commitments",
+                  "group": 42
+                },
+                {
+                  "id": "Integration of policy commitments with risk management, impact assessment, and performance mechanisms",
+                  "group": 42
+                }
+              ]
+            },
+            {
+              "id": "2-25: Processes to remediate negative impacts",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Processes to provide or cooperate in remediation of negative impacts caused or contributed to by the organization",
+                  "group": 43
+                },
+                {
+                  "id": "Stakeholder involvement in the design and implementation of remediation processes",
+                  "group": 43
+                },
+                {
+                  "id": "Types of remediation measures (e.g., apology, financial and non-financial compensation, restoration, prevention of recurrence)",
+                  "group": 43
+                },
+                {
+                  "id": "Operation, oversight, and division of responsibilities in the remediation process",
+                  "group": 43
+                },
+                {
+                  "id": "Tracking effectiveness and continuous improvement mechanisms of the remediation process",
+                  "group": 43
+                }
+              ]
+            },
+            {
+              "id": "2-26: Mechanisms for seeking advice and raising concerns",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Mechanisms for seeking advice on responsible business conduct policies and practices",
+                  "group": 44
+                },
+                {
+                  "id": "Mechanisms for raising concerns or grievances (grievance mechanisms)",
+                  "group": 44
+                },
+                {
+                  "id": "Who can use the mechanisms (internal and external stakeholders)",
+                  "group": 44
+                },
+                {
+                  "id": "Confidentiality, non-retaliation protection, and accessibility of the mechanisms",
+                  "group": 44
+                },
+                {
+                  "id": "Operation, management, and oversight of the mechanisms",
+                  "group": 44
+                }
+              ]
+            },
+            {
+              "id": "2-27: Compliance with laws and regulations",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Total number of significant instances of non-compliance with laws and regulations (or none)",
+                  "group": 45
+                },
+                {
+                  "id": "Non-compliance events categorized by type of fines and non-monetary sanctions",
+                  "group": 45
+                },
+                {
+                  "id": "Context, consequences, and corrective actions for significant non-compliance events",
+                  "group": 45
+                },
+                {
+                  "id": "Criteria and methods for determining significant non-compliance",
+                  "group": 45
+                }
+              ]
+            },
+            {
+              "id": "2-28: Membership associations",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Industry associations or other membership organizations in which the organization participates and that are significant",
+                  "group": 46
+                },
+                {
+                  "id": "National or international initiatives or organizations in which the organization participates",
+                  "group": 46
+                }
+              ]
+            },
+            {
+              "id": "2-29: Approach to stakeholder engagement",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Overall approach to stakeholder engagement",
+                  "group": 47
+                },
+                {
+                  "id": "Stakeholder categories and how they are identified and categorized",
+                  "group": 47
+                },
+                {
+                  "id": "Methods, frequency, and purpose of engagement (including how engagement results are incorporated into decision-making)",
+                  "group": 47
+                },
+                {
+                  "id": "Key concerns and feedback from each stakeholder category",
+                  "group": 47
+                },
+                {
+                  "id": "Differences in engagement approaches across stakeholder categories",
+                  "group": 47
+                }
+              ]
+            },
+            {
+              "id": "2-30: Collective bargaining agreements",
+              "group": 5,
+              "children": [
+                {
+                  "id": "Percentage of employees covered by collective bargaining agreements (may be broken down by country or region)",
+                  "group": 48
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GRI 3: Material Topics 2021",
+          "group": 5,
+          "children": [
+            {
+              "id": "3-1: Process to determine material topics",
+              "group": 6,
+              "children": [
+                {
+                  "id": "Methods for identifying actual and potential, negative and positive impacts",
+                  "group": 32
+                },
+                {
+                  "id": "Methods for prioritizing impacts based on significance (scale, scope, irremediable character, likelihood)",
+                  "group": 32
+                },
+                {
+                  "id": "Stakeholders and experts whose views were sought",
+                  "group": 32
+                }
+              ]
+            },
+            {
+              "id": "3-2: List of material topics",
+              "group": 6,
+              "children": [
+                {
+                  "id": "List of material topics",
+                  "group": 33
+                },
+                {
+                  "id": "Changes in the list of material topics compared to the previous period",
+                  "group": 33
+                }
+              ]
+            },
+            {
+              "id": "3-3: Management of material topics",
+              "group": 6,
+              "children": [
+                {
+                  "id": "Description of actual and potential, negative and positive impacts for each material topic",
+                  "group": 34
+                },
+                {
+                  "id": "Organizational activities or business relationships involved in negative impacts",
+                  "group": 34
+                },
+                {
+                  "id": "Related policies or commitments",
+                  "group": 34
+                },
+                {
+                  "id": "Management actions (prevent/mitigate potential negative, address actual negative, remediate, manage positive)",
+                  "group": 34
+                },
+                {
+                  "id": "Processes, targets, metrics, progress, and lessons learned for tracking effectiveness of actions",
+                  "group": 34
+                },
+                {
+                  "id": "Influence of stakeholder engagement on actions and effectiveness evaluation",
+                  "group": 34
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "GRI 200: Economic Standards Series",
           "group": 1,
           "children": [
